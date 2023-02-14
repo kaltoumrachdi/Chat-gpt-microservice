@@ -22,7 +22,7 @@
 
 > tap these commands in the application folder 
 
-* docker build -t chat-gpt-microservice.jar ./target
+* docker build -t chat-gpt-microservice.jar .
 * docker-compose up
 > in the container terminal tap(we move our jarfile into container folder that we mapped to our host folder so that the csv file would be generated in the container  folder 
 * mv /chat-gpt-microcervice.jar /container/chat-gpt-microservice.jar
