@@ -1,0 +1,12 @@
+version: '3'
+services:
+  answer_question:
+    image: chat-gpt-microservice.jar
+    build:
+      context: /target/Dockerfile
+    ports:
+      - "9090:8080"
+    volumes:
+      - ./volume_data:/container
+volumes:
+  volume_data:

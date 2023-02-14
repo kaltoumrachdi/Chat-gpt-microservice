@@ -1,0 +1,34 @@
+Question;answer
+what is AI;
+;
+"Artificial Intelligence (AI) is a form of technology that enables machines, or ""agents,"" to sense, comprehend, act and learn so that they can perform tasks similar to those performed by humans. AI can be used to automate many processes and to analyze large amounts of data quickly and accurately. AI can be found in various applications such as speech recognition, robotics, expert systems, virtual agents and computer vision., Question";answer
+what is ML;
+;
+Machine Learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate in predicting outcomes without being explicitly programmed. It is based on algorithms that can learn from data, identify patterns and make decisions with minimal or no human intervention. ML systems can adapt to changing situations and adjust its predictions accordingly., Question;answer
+what isjava;
+;
+Java is a programming language and a platform developed by Oracle used for generating code that runs on certain devices, such as computers and mobile phones. Java is platform independent, meaning it can run on any device with a Java Virtual Machine. It is used to create many different types of applications, such as Web servers, mobile applications, embedded systems, server-side enterprise applications, and game development., Question;answer
+what is ML;
+;
+Machine Learning (ML) is a form of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed. ML focuses on the development of computer programs that can access data and use it to learn for themselves and make decisions based on their learning. ML helps to automate predictive and analytical tasks, allowing organizations to make better decisions and create more efficient processes., Question;answer
+what is java;
+;
+Java is an object-oriented programming language developed by Sun Microsystems in the 1990s. It is a powerful software platform used to create secure, portable, high-performance applications that run on a wide variety of hardware and operating systems. Java is used to power millions of applications across the web, desktop and mobile devices., ;
+Question;answer
+how to create a java microservice;
+
+1. Create a Java project using your preferred IDE or Java framework.
+
+2. Configure a build tool such as Maven or Gradle to manage your project dependencies.
+
+3. Add suitable dependencies to connect the project with the outside world such as RestTemplate, SOAP, or any other communication protocol you intend to use.
+
+4. Design the project architecture defining input and output parameters, request and response objects and other details.
+
+5. Use the appropriate Java servlet to deploy the service on the server. Configure the servlet with details like the URL pattern and port number.
+
+6. Set up the service for production use. Setup logging, monitoring, and testing frameworks.
+
+7. Deploy the microservice to a server and verify that it is running correctly and is accessible from the network.
+
+8. Publish the service to the public by registering it with a service registry and advertising the service to other microservices., 
