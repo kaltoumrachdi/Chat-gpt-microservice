@@ -27,7 +27,7 @@
 > in the container terminal tap(we move our jarfile into container folder that we mapped to our host folder so that the csv file would be generated in the container  folder 
 * mv /chat-gpt-microcervice.jar /container/chat-gpt-microservice.jar
 
- NB: you may need to chage the API key if sending a request returns internal server error ,because the key may expire 
+ NB: you may need to change the API key if sending a request returns internal server error ,because the key may expire 
 
 
 
